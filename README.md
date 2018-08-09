@@ -1,5 +1,5 @@
 
-# Контроллер MDB устройств на базе Arduino UNO.
+# Контроллер MDB устройств на базе Arduino UNO
 
 Код основан на https://github.com/justintconroy/MdbBillValidator
 
